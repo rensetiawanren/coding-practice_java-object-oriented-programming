@@ -10,12 +10,10 @@ This project is an exercise of object oriented programming using Java language.
 ---
 
 ## Table of Content
-1. [Project Instruction](#project-instruction)
-2. [Project Goals](#project-goals)
-3. [Tech Stack](#tech-stack)
-4. [Work Flow](#workflow)
-5. [Task](#task)
-6. [Documentation](#documentation)
+1. [Project Goals](#project-goals)
+2. [Tech Stack](#tech-stack)
+3. [Task](#task)
+4. [Documentation](#documentation)
 
 <!-- ## Project Instruction
  -->
