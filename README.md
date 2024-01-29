@@ -26,14 +26,14 @@ This project is an exercise in object oriented programming using the Java langua
 
 ## Tech Stack
 
-#### Programming Language
+**Programming Language**
 <p align="justify">
   <!--[Java]-->
     <a href="https://www.java.com/">
       <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
 </p>    
 
-#### Versioning Control
+**Versioning Control**
 <p align="justify">    
   <!--[Git]-->
     <a href="https://git-scm.com/">
@@ -45,14 +45,14 @@ This project is an exercise in object oriented programming using the Java langua
     </a>    
 </p>    
 
-#### IDE
+**IDE**
 <p align="justify">    
   <!--[IntelliJ IDEA]-->
     <a href="https://www.jetbrains.com/idea/">
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intelliJ-idea&logoColor="/>
     </a>
 
-#### Operating System
+**Operating System**
 <p align="justify">
     <!--[Fedora]-->
       <a href="https://getfedora.org/">
