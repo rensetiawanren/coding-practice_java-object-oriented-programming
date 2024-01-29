@@ -14,7 +14,6 @@
 5. [Task](#task)
 6. [Documentation](#documentation)
 
-
 ## Project Instruction
 This project is an exercise in object oriented programming using the Java language.
 
@@ -25,7 +24,6 @@ This project is an exercise in object oriented programming using the Java langua
 - To create and implementation  **methode** in programming.
 
 ## Tech Stack
-
 **Programming Language**
 <p align="justify">
   <!--[Java]-->
@@ -154,3 +152,4 @@ Harga: Rp. 5.000
 ## Documentation
 [Documentation]()
 
+---
