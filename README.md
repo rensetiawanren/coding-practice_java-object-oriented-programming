@@ -1,8 +1,11 @@
-# CODING PRACTICE - Object Oriented Programming
-
 <kbd>
     <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
 </kbd>
+
+---
+
+# CODING PRACTICE - Object Oriented Programming (Java)
+This project is an exercise of object oriented programming using Java language.
 
 ---
 
@@ -14,8 +17,8 @@
 5. [Task](#task)
 6. [Documentation](#documentation)
 
-## Project Instruction
-This project is an exercise in object oriented programming using the Java language.
+<!-- ## Project Instruction
+ -->
 
 ## Project Goals:
 - Participants can implementation **class** in programming
@@ -58,8 +61,8 @@ This project is an exercise in object oriented programming using the Java langua
       </a>
 </p>
 
-## Workflow
-Solve the problem bellow using Java.
+<!-- ## Workflow
+ -->
 
 ### Task
 #### 1. Bangun Datar
