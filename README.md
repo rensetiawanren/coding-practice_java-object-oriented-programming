@@ -1,8 +1,8 @@
 <kbd>
-    <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
+    <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/P-SE_PR-010_00002-A_1-COVER.jpg"/>
 </kbd>
 
----
+<p align="right">P-SE_PR-010_00002</p>
 
 # CODING PRACTICE - Object Oriented Programming (Java)
 This project is an exercise of object oriented programming using Java language.
@@ -32,7 +32,7 @@ This project is an exercise of object oriented programming using Java language.
       <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
 </p>    
 
-#### ersioning Control
+#### Versioning Control
 <p align="justify">    
   <!--[Git]-->
     <a href="https://git-scm.com/">
@@ -151,7 +151,7 @@ Harga: Rp. 5.000
 
 ## Documentation
 ### To-Do
-- [ ] Complete Workflow
+<!-- - [ ] Complete Workflow -->
 - [ ] Complete Task
 - [ ] Create Documentation Report
 
@@ -161,3 +161,5 @@ Harga: Rp. 5.000
 
 
 ---
+
+[🔼 Back To Top](#coding-practice---object-oriented-programming-java)
